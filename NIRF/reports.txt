@@ -1,2 +1,2 @@
 The reports can be found at this link:
-https://public.tableau.com/profile/chellapriyadharshini.m#!/vizhome/NIRFAnalytics/Story1?publish=yes
+https://public.tableau.com/profile/chellapriyadharshini.m#!/vizhome/NIRFParametersAnalysis/Story1?publish=yes
