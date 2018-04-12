@@ -8,4 +8,4 @@ Reports can be viewed on: https://public.tableau.com/profile/chellapriyadharshin
 2. NIRF : Analytics on the National Institutional Ranking Framework data for 2018 available on MHRD's website.
 Data available on: https://www.nirfindia.org/2018/Ranking2018.html
 
-Reports can be viewed on: https://public.tableau.com/profile/chellapriyadharshini.m#!/vizhome/NIRFAnalytics/Story1?publish=yes
+Reports can be viewed on: https://public.tableau.com/profile/chellapriyadharshini.m#!/vizhome/NIRFParametersAnalysis/Story1?publish=yes
